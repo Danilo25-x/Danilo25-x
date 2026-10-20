@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Danilo25-x 👋
 
-<!--
-**Danilo25-x/Danilo25-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabajo en proyectos de software que incluyen aplicaciones de punto de venta, sitios web y APIs REST.
 
-Here are some ideas to get you started:
+## Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [ZonaFit-POS](https://github.com/Danilo25-x/ZonaFit-POS) — Sistema POS de escritorio.
+- [J97-POS](https://github.com/Danilo25-x/J97-POS) — Punto de venta para tiendas.
+- [Osmar-pos](https://github.com/Danilo25-x/Osmar-pos) — Sistema POS de escritorio.
+- [jardin-infantil-api](https://github.com/Danilo25-x/jardin-infantil-api) — API para asistencia, entregas autorizadas e inventario.
+- [musica-api](https://github.com/Danilo25-x/musica-api) — API REST para gestionar canciones.
+- [Sitio web](https://danilo25-x.github.io/) — Servicios tecnológicos y soluciones digitales.
+
+## Tecnologías
+
+JavaScript · React · Vite · Electron · Node.js · Express · MongoDB · Supabase · Python
